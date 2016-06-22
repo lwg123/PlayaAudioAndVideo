@@ -414,6 +414,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = videoPlay/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = changhong.videoPlay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -425,6 +426,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = videoPlay/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = changhong.videoPlay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -496,6 +498,7 @@
 				D1F076411D1A735200454001 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D1F076421D1A735200454001 /* Build configuration list for PBXNativeTarget "videoPlayTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +507,7 @@
 				D1F076441D1A735200454001 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D1F076451D1A735200454001 /* Build configuration list for PBXNativeTarget "videoPlayUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +516,7 @@
 				D1F076471D1A735200454001 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
