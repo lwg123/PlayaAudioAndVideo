@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"shishi");
     NSLog(@"shishi");
+    NSLog(@"55");
     //bijiv
 }
 
