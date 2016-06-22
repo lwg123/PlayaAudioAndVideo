@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"shishi");
+    NSLog(@"shishi");
+    //bijiv
 }
 
 - (void)didReceiveMemoryWarning {
